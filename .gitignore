@@ -1,0 +1,13 @@
+/node_modules
+/node_modules.junk
+/dist
+.*.swp
+*.junk
+*-junk
+.DS_Store
+yarn-error.log
+src/testapp/protected-config/froalaKey.js
+/spare-parts
+src/components/old-stuff/
+
+src/testapp/old-stuff/
